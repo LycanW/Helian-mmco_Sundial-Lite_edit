@@ -30,6 +30,10 @@ const int colortex4Format = RGBA16F;
 const int colortex5Format = RGBA16F;
 const int colortex6Format = R32UI;
 const int colortex7Format = RGBA32F;
+const int colortex8Format = RGBA16F;
+const int colortex9Format = RGBA16F;
+const int colortex10Format = RGBA16F;
+const int colortex11Format = RGBA16F;
 
 // Voxy support
 const int colortex16Format = RGBA8;
@@ -43,6 +47,10 @@ const bool colortex3Clear = false;
 const bool colortex5Clear = false;
 const bool colortex6Clear = false;
 const bool colortex7Clear = false;
+const bool colortex8Clear = false;
+const bool colortex9Clear = false;
+const bool colortex10Clear = false;
+const bool colortex11Clear = false;
 
 const vec4 colortex0ClearColor = vec4(0.0, 0.0, 0.0, 1.0);
 const vec4 colortex4ClearColor = vec4(0.0, 0.0, 0.0, 0.6);
